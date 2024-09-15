@@ -63,7 +63,7 @@ Each solution includes an explanation of the problem, approach, and the final co
     <tr>
       <td><a href="https://leetcode.com/problems/sum-of-digits-of-string-after-convert/">Sum of Digits of String After Convert</a></td>
       <td>Easy</td>
-      <td><a href="./Sum%20of%20Digits%20of%20String%20After%20Convert/index.js">Solution</a></td>
+      <td><a href="./Sum%20of%20Digits%20of%20String%20After%20Convert/solution.js">Solution</a></td>
       <td>September 15, 2024</td>
     </tr>
   </tbody>
