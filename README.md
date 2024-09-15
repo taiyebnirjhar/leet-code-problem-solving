@@ -21,8 +21,10 @@ Each problem is stored in its own folder, following the naming convention of the
 📦 leet-code-problem-solving
  ┣ 📂 <Problem Title>
  ┃ ┣ 📜 solution.ts (or solution.js)
- ┃ ┣ 📜 README.md (contains problem description and approach)
+ ┃ ┣ 📜 description.md (contains problem description)
+ ┃ ┣ 📜 approach.md (contains approach and solution explanation)
  ┗ 📜 README.md (this file)
+
 ```
 
 ---
