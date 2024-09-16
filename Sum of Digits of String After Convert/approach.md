@@ -87,4 +87,4 @@ In this example:
 - Initial sum of digits: 1 + 2 + 5 + 5 + 2 + 0 + 3 + 1 + 5 + 4 + 5 = 33.
 - After the second transformation: 3 + 3 = 6.
 
-This breakdown should clearly explain your approach for solving the problem and help others understand your thought process when they visit your repository.
+This breakdown should clearly explain the approach for solving the problem and help you to understand 
